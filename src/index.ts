@@ -1,4 +1,3 @@
-export * from './Example';
-export * from './stories/Components/SimpleTable';
-export * from './stories/utils/ScrollDetector';
-export * from './stories/utils/useIntersectionObserver';
+export const reminder = () =>
+    // eslint-disable-next-line no-alert
+    alert('This is a reminder that this is still on development');

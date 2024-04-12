@@ -1,1 +1,1 @@
-export * from './stories/utils/useIntersectionObserver';
+export * from './stories/hooks/useIntersectionObserver';
